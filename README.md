@@ -1,6 +1,6 @@
 # Log-Analyzer_Mini-SIEM-Project
-A Python tool that reads raw authentication logs and hunts for — failed logins, brute-force bursts, and raises alerts.
-# This was a beginner project I worked on to help with understanding Log Analyzing and make a Mini-SIEM
+This is a beginner project I worked on to help with understanding Log Analyzing and make a Mini-SIEM.
+It's a Python tool that reads raw authentication logs and hunts for — failed logins, brute-force bursts, and raises alerts.
 
 # Mini-SIEM — Auth Log Brute-Force Detector
 
