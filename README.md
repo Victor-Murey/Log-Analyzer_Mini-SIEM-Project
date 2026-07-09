@@ -1,4 +1,4 @@
-# Log-Analyzer_Mini-SIEM-Project
+# Log-Analyzer Mini-SIEM Project
 This is a beginner project I worked on to help with understanding Log Analyzing and make a Mini-SIEM.
 It's a Python tool that reads raw authentication logs and hunts for — failed logins, brute-force bursts, and raises alerts.
 
@@ -14,7 +14,7 @@ and detects brute-force login attempts, mapped to MITRE ATT&CK
 - Counts failed logins per IP and alerts over a threshold
 - Writes a timestamped report of findings
 
-# Usage
+# Usage in terminal
 ```
 python3 analyze.py auth.log --threshold 3\
 
@@ -37,3 +37,5 @@ python3 analyze.py auth.log --threshold 3\
 # Next steps
 - Detect logins at unusual hours
 - Output JSON for ingestion into a real SIEM
+
+# Project 
