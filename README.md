@@ -37,5 +37,3 @@ python3 analyze.py auth.log --threshold 3\
 # Next steps
 - Detect logins at unusual hours
 - Output JSON for ingestion into a real SIEM
-
-# Project 
