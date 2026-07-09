@@ -1,0 +1,2 @@
+[ALERT] T1110 Brute Force | IP=203.0.113.7 | failed_attempts=4
+[ALERT] T1110 Brute Force | IP=198.51.100.22 | failed_attempts=3
